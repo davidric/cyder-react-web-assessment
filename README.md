@@ -17,10 +17,11 @@ For development version
 
 For production version
 1. Go to root directory (cyder-react-web-assessment)
-2. npm run build
-3. npm install -g serve
-4. serve -s build
-5. run http://localhost:5000 on browser
+2. npm install
+3. npm run build
+4. npm install -g serve
+5. serve -s build
+6. run http://localhost:5000 on browser
 ***
 
 ####what could be improve the system?
